@@ -1,5 +1,5 @@
 // Euler Project #11 in Java
-//What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20Å~20 grid?
+// What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20Å~20 grid?
 
 package euler011;
 
